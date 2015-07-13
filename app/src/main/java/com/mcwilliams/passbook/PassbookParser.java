@@ -8,6 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 import com.google.gson.Gson;
+import com.mcwilliams.passbook.models.PassbookPass;
 
 import org.json.JSONObject;
 
